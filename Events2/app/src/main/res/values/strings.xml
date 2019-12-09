@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="title_activity_ev2">Ev2</string>
+    <string name="title_activity_ev3">Ev3</string>
+</resources>
